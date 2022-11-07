@@ -1,7 +1,7 @@
 /************************************************************
- * Assigned to: Courtney DeTello                            *
- * Created by: Courtney DeTello                             *
- * Compatibility and Assembly by: Courtney DeTello          *
+ * Assigned to: CD                                          *
+ * Created by: CD                                           *
+ * Compatibility and Assembly by: CD                        *
  * Purpose: Get User Input for Battleship                   *
  * Date: 6 November 2021                                    *
  ************************************************************/
