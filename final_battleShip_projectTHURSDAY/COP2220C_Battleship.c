@@ -1,7 +1,7 @@
 /************************************************************
- * Assigned to: Suchir Moharil                              *
- * Created by: Suchir Moharil                               *
- * Compatibility and Assembly by: Suchir Moharil            *
+ * Assigned to: SM                                          *
+ * Created by: SM                                           *
+ * Compatibility and Assembly by: SM                        *
  * Purpose: Main Method and Randomizer for Battleship       *
  * Date: 6 November 2021                                    *
  ************************************************************/
