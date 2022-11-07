@@ -1,7 +1,7 @@
 /**************************************************************************
- * Assigned to: Courtney DeTello                                          *
- * Created by: Courtney DeTello                                           *
- * Compatibility and Assembly by: Suchir Moharil and Courtney DeTello     *
+ * Assigned to: CD                                                        *
+ * Created by: CD                                                         *
+ * Compatibility and Assembly by: SM and CD                               *
  * Purpose: Save State of Game and Leaderboard for Battleship             *
  * Date: 6 November 2021                                                  *
  **************************************************************************/
