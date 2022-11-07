@@ -1,7 +1,7 @@
 /**************************************************************************
- * Assigned to: Kailer Lasagna                                            *
- * Created by: Courtney DeTello                                           *
- * Compatibility and Assembly by: Suchir Moharil and Courtney DeTello     *
+ * Assigned to: KL                                                        *
+ * Created by: CD                                                         *
+ * Compatibility and Assembly by: SM and CD                               *
  * Purpose: Board and Leaderboard Display for Battleship                  *
  * Date: 6 November 2021                                                  *
  **************************************************************************/
