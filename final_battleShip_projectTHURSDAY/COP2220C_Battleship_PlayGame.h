@@ -1,7 +1,7 @@
 /**************************************************************************
- * Assigned to: Michael Grimes                                            *
- * Created by: Michael Grimes                                             *
- * Compatibility and Assembly by: Suchir Moharil and Courtney DeTello     *
+ * Assigned to: MG                                                        *
+ * Created by: MG                                                         *
+ * Compatibility and Assembly by: SM and CD                               *
  * Purpose: Gameplay Processing for Battleship                            *
  * Date: 6 November 2021                                                  *
  **************************************************************************/
